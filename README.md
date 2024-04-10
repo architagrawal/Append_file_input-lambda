@@ -1,8 +1,9 @@
 # Lambda Function - Input Handler
+## Description
 
 This Lambda Function is responsible for inserting new items in DynamoDB when API gateway recieves a request.
 
-## Run Locally
+## Installation and Usage
 
 1. Clone the project
 
